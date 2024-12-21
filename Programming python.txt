@@ -1,0 +1,10 @@
+Special Notes
+*intendation in python
+*list in python(variables)
+*strings
+*range
+*parameters
+*start,stop,step(range function)
+*function
+*function name
+*call 
